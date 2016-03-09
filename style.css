@@ -62,9 +62,18 @@ body {
 	   }
 
 	   h5 {
-	   	font-size:18px;
+
+	   	font-size:20px;
 	   }
 
+	   .feed {
+	   	font-weight: 300;
+	   	margin-top:30px;
+	   }
+
+	   .hub {
+	   	font-weight: 300;
+	   }
 	    @media only screen and (max-width: 320px) {
 	    	.nabnab {
 	    		font-size:50px;
